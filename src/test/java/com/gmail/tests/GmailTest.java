@@ -1,7 +1,7 @@
-package tests;
+package com.gmail.tests;
 
-import com.gmail.testing.pages.AccountRegisterPage;
-import com.gmail.testing.pages.GmailMainPage;
+import com.gmail.pages.AccountRegisterPage;
+import com.gmail.pages.GmailMainPage;
 import org.junit.Test;
 
 import static com.codeborne.selenide.Selenide.open;

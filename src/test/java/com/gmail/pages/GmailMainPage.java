@@ -1,4 +1,6 @@
-package com.gmail.testing.pages;
+package com.gmail.pages;
+
+import com.gmail.pages.AccountRegisterPage;
 
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$$;

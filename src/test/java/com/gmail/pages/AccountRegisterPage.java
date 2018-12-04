@@ -1,4 +1,4 @@
-package com.gmail.testing.pages;
+package com.gmail.pages;
 
 import net.bytebuddy.utility.RandomString;
 
